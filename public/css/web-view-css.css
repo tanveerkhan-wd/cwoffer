@@ -1,0 +1,91 @@
+.blog_box {
+margin: 30px 10px;
+}
+.blog_box .blog_title {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+}
+.blog_box .blog_body {
+    font-size: 16px;
+}
+.blog_box .blog_body  p {
+    margin-bottom: 5px;
+    text-align: justify;
+}
+img {
+    height: auto !important;
+    width:  auto !important;
+    max-width: 100%;
+    max-height: 200px;
+}
+.blog_date {
+	font-size: 14px;
+    text-align: right;
+    font-weight: bold;
+}
+.blog_image {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+/*ABOUT US*/
+.about_box {
+margin: 30px 10px;
+}
+.about_box .about_title {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+}
+.about_box .about_body {
+    font-size: 16px;
+}
+.about_box .about_body  p {
+    margin-bottom: 5px;
+    text-align: justify;
+}
+img {
+    height: auto !important;
+    width:  auto !important;
+    max-width: 100%;
+    max-height: 200px;
+}
+.about_image {
+    text-align: center;
+    margin-bottom: 20px;
+}
+/* STATIC PAGES */
+/*ABOUT US*/
+.static_box {
+margin: 30px 10px;
+}
+.static_box .static_title {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+}
+.static_box .static_body {
+    font-size: 16px;
+}
+.static_box .static_body  p {
+    margin-bottom: 5px;
+    text-align: justify;
+}
+img {
+    height: auto !important;
+    width:  auto !important;
+    max-width: 100%;
+    max-height: 200px;
+}
+.static_image {
+    text-align: center;
+    margin-bottom: 20px;
+}
